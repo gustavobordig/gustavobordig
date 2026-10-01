@@ -39,11 +39,18 @@ Fora do trabalho, crio e publico **meus próprios apps na App Store**, cuidando 
 
 ### 💼 Experiência
 
-```text
-Vcodes .............. Dev Mobile & Full Stack Pleno ........ jun/2025 – presente
-Embarca ............. Dev Mobile & Full Stack Pleno ........ abr/2025 – jun/2025
-Agência Chleba ...... Full Stack Júnior / Estágio .......... set/2022 – abr/2024
-```
+**Vcodes** · Dev Mobile & Full Stack Pleno · *jun/2025 – presente*<br/>
+Produtos digitais em startup: aplicações mobile, web e desktop.
+
+**Embarca** · *mai/2024 – jun/2025*<br/>
+↳ Dev Mobile & Full Stack Pleno · *abr/2025 – jun/2025*<br/>
+↳ Dev Mobile & Full Stack Júnior · *mai/2024 – abr/2025*<br/>
+Front-end da plataforma [Embarca.ai](https://embarca.ai) de venda de passagens de ônibus (React, Next.js).
+
+**Agência Chleba** · *set/2022 – abr/2024*<br/>
+↳ Dev Full Stack Júnior · *fev/2024 – abr/2024*<br/>
+↳ Estágio em Desenvolvimento · *set/2022 – fev/2024*<br/>
+Landing pages para clientes como a Plaenge, com foco em performance, responsividade e UX/UI.
 
 ---
 
@@ -66,8 +73,7 @@ Agência Chleba ...... Full Stack Júnior / Estágio .......... set/2022 – abr
 | --- | --- | --- |
 | [**Portfólio**](https://github.com/gustavobordig/new-portifolio) · [demo](https://new-portifolio-azure.vercel.app) | Portfólio com tema espacial, cenas 3D e i18n (PT/EN) | Next.js · Three.js · Framer Motion |
 | [**ePonto (TCC)**](https://github.com/gustavobordig/eponto-tcc) · [demo](https://eponto-ten.vercel.app) | Ponto eletrônico com banco de horas, férias e dashboard de RH | Next.js 15 · Recharts · Cypress |
-| [**IronMind**](https://github.com/gustavobordig/ironmindfront) | Gym tracker: registro de treinos e evolução de cargas | Expo · React Query |
-
+| [**Soma**](https://apps.apple.com/us/app/soma-food-tracker/id6761935731) · código privado | App de nutrição com IA: análise de refeições por foto e geração de plano alimentar com Claude, API própria e login social (Apple/Google) | Expo · NestJS · Prisma · PostgreSQL · Claude API |
 
 ---
 
