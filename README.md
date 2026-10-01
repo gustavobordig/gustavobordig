@@ -52,12 +52,12 @@ Landing pages para clientes como a Plaenge, com foco em performance, responsivid
 ### 🛠️ Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,nestjs,tailwind,prisma,postgres,mongodb,docker,electron,threejs,figma,git" alt="Stack" />
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,nestjs,cs,dotnet,tailwind,prisma,postgres,mongodb,docker,electron,threejs,figma,git" alt="Stack" />
 </p>
 
 **Mobile:** React Native · Expo · Expo Router · React Query · NativeWind<br/>
 **Frontend:** React · Next.js · TypeScript · Tailwind · Framer Motion · Three.js<br/>
-**Backend:** Node.js · NestJS · Express · Prisma · PostgreSQL · MySQL · MongoDB<br/>
+**Backend:** Node.js · NestJS · C# · .NET · Express · Prisma · PostgreSQL · MySQL · MongoDB<br/>
 **Outros:** Docker · Electron / Tauri · Stripe · Cypress · Figma
 
 ---
