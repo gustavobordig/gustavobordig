@@ -67,7 +67,7 @@ Agência Chleba ...... Full Stack Júnior / Estágio .......... set/2022 – abr
 | [**Portfólio**](https://github.com/gustavobordig/new-portifolio) · [demo](https://new-portifolio-azure.vercel.app) | Portfólio com tema espacial, cenas 3D e i18n (PT/EN) | Next.js · Three.js · Framer Motion |
 | [**ePonto (TCC)**](https://github.com/gustavobordig/eponto-tcc) · [demo](https://eponto-ten.vercel.app) | Ponto eletrônico com banco de horas, férias e dashboard de RH | Next.js 15 · Recharts · Cypress |
 | [**IronMind**](https://github.com/gustavobordig/ironmindfront) | Gym tracker: registro de treinos e evolução de cargas | Expo · React Query |
-| [**GB Gym**](https://github.com/gustavobordig/Gb-gym) | Montagem e acompanhamento de treinos personalizados | React Native · NativeWind · Zustand |
+
 
 ---
 
