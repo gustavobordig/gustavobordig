@@ -12,7 +12,7 @@
 
 ### 🚀 Sobre mim
 
-Sou desenvolvedor **Mobile & Full Stack Pleno na Vcodes**, construindo produtos web e mobile desde 2022.
+Sou desenvolvedor **Mobile & Full Stack Pleno**, construindo produtos web e mobile desde 2022.
 Fora do trabalho, crio e publico **meus próprios apps na App Store**, cuidando de tudo: app, API, banco, deploy e publicação.
 
 - 📱 **Foco:** apps mobile com React Native / Expo e APIs com NestJS + Prisma
