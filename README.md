@@ -5,6 +5,7 @@
   React Native / Expo · Next.js · NestJS: do design à publicação na loja
 </p>
 
+
 <p align="center">
   <a href="https://new-portifolio-azure.vercel.app"><img src="https://img.shields.io/badge/Portfólio-0B1026?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio" /></a>
   <a href="https://www.linkedin.com/in/gustavo-bordignon-326861203/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
