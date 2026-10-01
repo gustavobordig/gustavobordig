@@ -1,10 +1,6 @@
-<h1 align="center">Oi, eu sou o Gustavo Bordignon 👋</h1>
-
 <p align="center">
-  <strong>Dev Mobile & Full Stack Pleno</strong> · Curitiba, Brasil<br/>
-  React Native / Expo · Next.js · NestJS: do design à publicação na loja
+  <img src="./banner.svg" width="100%" alt="Gustavo Bordignon, Dev Mobile & Full Stack Pleno" />
 </p>
-
 
 <p align="center">
   <a href="https://new-portifolio-azure.vercel.app"><img src="https://img.shields.io/badge/Portfólio-0B1026?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio" /></a>
