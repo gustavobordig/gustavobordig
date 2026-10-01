@@ -17,7 +17,7 @@ Fora do trabalho, crio e publico **meus próprios apps na App Store**, cuidando 
 
 - 📱 **Foco:** apps mobile com React Native / Expo e APIs com NestJS + Prisma
 - 🎓 **Formação:** Sistemas de Informação, PUCPR (2022–2025)
-- 
+  
 ---
 
 ### 📱 Apps publicados
