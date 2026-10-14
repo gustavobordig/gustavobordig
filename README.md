@@ -17,7 +17,27 @@ Fora do trabalho, crio e publico **meus próprios apps na App Store**, cuidando 
 
 - 📱 **Foco:** apps mobile com React Native / Expo e APIs com NestJS + Prisma
 - 🎓 **Formação:** Sistemas de Informação, PUCPR (2022–2025)
-  
+
+---
+
+### 🕒 Em destaque: ePonto
+
+<p align="center">
+  <a href="https://eponto-ten.vercel.app"><img src="https://img.shields.io/badge/Testar_a_demo-03218A?style=for-the-badge&logo=vercel&logoColor=white" alt="Testar a demo" /></a>
+  <a href="https://github.com/gustavobordig/eponto-tcc"><img src="https://img.shields.io/badge/Front-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Repositório do front" /></a>
+  <a href="https://github.com/gustavobordig/Eponto-api"><img src="https://img.shields.io/badge/API-C%23_.NET_8-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="Repositório da API" /></a>
+</p>
+
+Sistema de ponto eletrônico **full stack**, do meu TCC, retomado e atualizado: o funcionário bate o ponto com localização, acompanha histórico e banco de horas e pede ajustes, ausências, férias e feedback; o RH aprova tudo numa fila só e cuida dos cadastros.
+
+- **API em C# / .NET 8** (ASP.NET Core) em camadas: Controllers, Services, Repositories e Domain, com Dapper e MySQL
+- **JWT por perfil** (RH e funcionário), jobs agendados com **Hangfire** e testes com xUnit
+- **Modo demonstração** aberto ao público: limite de gravações por hora e dados restaurados todo dia
+- **Front em Next.js 15 + TypeScript + Tailwind**, organizado por domínio, com design system, modo escuro e testes E2E com **Cypress**
+- Deploy com **Docker no Railway** (API + MySQL) e **Vercel** (front)
+
+> 💡 Na tela de login há botões para entrar como **RH** ou **funcionária**, sem precisar de cadastro.
+
 ---
 
 ### 📱 Apps publicados
@@ -66,8 +86,8 @@ Landing pages para clientes como a Plaenge, com foco em performance, responsivid
 
 | Projeto | Descrição | Stack |
 | --- | --- | --- |
+| [**ePonto (TCC)**](https://github.com/gustavobordig/eponto-tcc) · [API](https://github.com/gustavobordig/Eponto-api) · [demo](https://eponto-ten.vercel.app) | Ponto eletrônico full stack: banco de horas, férias, ausências e painel de RH, com modo demonstração aberto | C# · .NET 8 · MySQL · Next.js 15 · Cypress |
 | [**Portfólio**](https://github.com/gustavobordig/new-portifolio) · [demo](https://new-portifolio-azure.vercel.app) | Portfólio com tema espacial, cenas 3D e i18n (PT/EN) | Next.js · Three.js · Framer Motion |
-| [**ePonto (TCC)**](https://github.com/gustavobordig/eponto-tcc) · [demo](https://eponto-ten.vercel.app) | Ponto eletrônico com banco de horas, férias e dashboard de RH | Next.js 15 · Recharts · Cypress |
 | [**Soma**](https://apps.apple.com/us/app/soma-food-tracker/id6761935731) · código privado | App de nutrição com IA: análise de refeições por foto e geração de plano alimentar com Claude, API própria e login social (Apple/Google) | Expo · NestJS · Prisma · PostgreSQL · Claude API |
 
 ---
